@@ -251,8 +251,8 @@ languages:
                 url: "https://www.linkedin.com/in/rocio-goyeneche-jazbec/"
             featured:
               name: "Ver proyecto"
-              linkEs: "/es/projects/pamedios/"
-              linkEn: "/projects/pamedios/"
+              linkEs: "es/projects/pamedios/"
+              linkEn: "projects/pamedios/"
           - title: "La EmmApp"
             content: "Aplicación web publicada para registrar mascotas y organizar vacunas, medicación y citas."
             image: "/images/projects/la-emmapp-hero-real.png"
@@ -268,8 +268,8 @@ languages:
                 url: "https://laemmapp.22web.org/"
             featured:
               name: "Ver proyecto"
-              linkEs: "/es/projects/la-emmapp/"
-              linkEn: "/projects/la-emmapp/"
+              linkEs: "es/projects/la-emmapp/"
+              linkEn: "projects/la-emmapp/"
           - title: "Escuela de verano"
             content: "Landing realizada con WordPress y Elementor para presentar la Escuela de Verano 2026."
             image: "/images/projects/escuela-verano.png"
@@ -282,8 +282,8 @@ languages:
                 url: "https://orientadoradeorientadores.com/formacion/escuela-verano-orientacion-laboral/"
             featured:
               name: "Ver proyecto"
-              linkEs: "/es/projects/escuela-de-verano/"
-              linkEn: "/projects/escuela-de-verano/"
+              linkEs: "es/projects/escuela-de-verano/"
+              linkEn: "projects/escuela-de-verano/"
           - title: "Elita Tarot"
             content: "Concepto de landing page one-page para una profesional del tarot."
             image: "/images/projects/elita-tarot.svg"
@@ -295,8 +295,8 @@ languages:
             links: []
             featured:
               name: "Ver proyecto"
-              linkEs: "/es/projects/elita-tarot/"
-              linkEn: "/projects/elita-tarot/"
+              linkEs: "es/projects/elita-tarot/"
+              linkEn: "projects/elita-tarot/"
 
       contact:
         enable: true
