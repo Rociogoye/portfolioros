@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Concepto visual provisional para Elita Tarot</title>
+  <desc id="desc">Composición nocturna con una carta, una luna y estrellas.</desc>
+  <defs>
+    <radialGradient id="night"><stop stop-color="#36234f"/><stop offset="1" stop-color="#110d20"/></radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0c685"/><stop offset="1" stop-color="#b8789c"/></linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#night)"/>
+  <circle cx="960" cy="155" r="100" fill="#f4dba3"/>
+  <circle cx="1000" cy="125" r="100" fill="#25163b"/>
+  <g fill="#f4dba3">
+    <path d="m170 120 7 20 20 7-20 7-7 20-7-20-20-7 20-7Z"/>
+    <path d="m1060 470 6 17 17 6-17 6-6 17-6-17-17-6 17-6Z"/>
+    <path d="m855 90 4 12 12 4-12 4-4 12-4-12-12-4 12-4Z"/>
+  </g>
+  <g transform="translate(190 95) rotate(-5 260 280)">
+    <rect width="520" height="560" rx="28" fill="#160f29" stroke="url(#card)" stroke-width="7"/>
+    <rect x="28" y="28" width="464" height="504" rx="18" fill="none" stroke="#d5a8a9" stroke-width="2"/>
+    <circle cx="260" cy="242" r="118" fill="none" stroke="#f0c685" stroke-width="5"/>
+    <path d="M260 120a122 122 0 0 0 0 244 104 104 0 0 1 0-244Z" fill="#f0c685"/>
+    <path d="m260 92 10 29 29 10-29 10-10 29-10-29-29-10 29-10Z" fill="#d184a8"/>
+    <text x="260" y="440" text-anchor="middle" font-family="Georgia,serif" font-size="54" fill="#f4dba3">ELITA TAROT</text>
+    <text x="260" y="482" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#d5a8a9">CONCEPTO ONE-PAGE</text>
+  </g>
+  <text x="975" y="690" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#d5a8a9">IMAGEN PROVISIONAL</text>
+</svg>
