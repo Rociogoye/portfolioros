@@ -3,7 +3,7 @@ title: "PAMedios"
 date: 2026-07-15
 description: "Communication and digital marketing work for different clients, focused on strategy, content, and coordination."
 summary: "More than 20 clients across communication, content, campaigns, and multidisciplinary coordination."
-image: "/images/projects/flyup-reference-1.png"
+image: "/images/projects/pamedios-brand.svg"
 badges: ["Communication", "Digital marketing", "Content", "Coordination"]
 tags: ["Communication", "Digital marketing", "Content", "Strategy"]
 weight: 1

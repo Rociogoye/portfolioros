@@ -3,7 +3,7 @@ title: "PAMedios"
 date: 2026-07-15
 description: "Proyecto de comunicación y marketing digital para clientes diversos, con foco en estrategia, contenidos y coordinación."
 summary: "Experiencia de más de 20 clientes en comunicación, contenidos, campañas y coordinación multidisciplinar."
-image: "/images/projects/flyup-reference-1.png"
+image: "/images/projects/pamedios-brand.svg"
 badges: ["Comunicación", "Marketing digital", "Contenidos", "Coordinación"]
 tags: ["Comunicación", "Marketing digital", "Contenidos", "Estrategia"]
 weight: 1
