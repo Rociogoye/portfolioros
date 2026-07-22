@@ -33,7 +33,7 @@
                         </span>
                         {{ end }}
                         <span class="float-end">
-                            <a class="btn btn-sm" href="{{ with $item.featured }}{{ $link := cond (eq $.Site.Language.Lang "es") .linkEs .linkEn }}{{ $link = replaceRE `^/` "" $link }}{{ $link = replaceRE `^es/` "" $link }}{{ $link | relLangURL }}{{ else }}#{{ end }}">{{ if eq $.Site.Language.Lang "es" }}Ver proyecto{{ else }}View project{{ end }}</a>
+                            <a class="btn btn-sm" href="{{ with $item.featured }}{{ $link := cond (eq $.Site.Language.Lang "es") .linkEs .linkEn }}{{ $link = replaceRE `^/` "" $link }}{{ $link = replaceRE `^es/` "" $link }}{{ $link }}{{ else }}#{{ end }}">{{ if eq $.Site.Language.Lang "es" }}Ver proyecto{{ else }}View project{{ end }}</a>
                         </span>
                     </div>
                 </article>
