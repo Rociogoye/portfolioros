@@ -240,7 +240,7 @@ languages:
         items:
           - title: "PAMedios"
             content: "Experiencia de más de 20 clientes en comunicación, contenidos, campañas y coordinación multidisciplinar."
-            image: "/images/projects/flyup-reference-1.png"
+            image: "/images/projects/pamedios-brand.svg"
             badges:
               - "Comunicación"
               - "Marketing digital"
