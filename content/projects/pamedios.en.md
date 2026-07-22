@@ -3,7 +3,7 @@ title: "PAMedios"
 date: 2026-07-15
 description: "Communication and digital marketing work for different clients, focused on strategy, content, and coordination."
 summary: "More than 20 clients across communication, content, campaigns, and multidisciplinary coordination."
-image: "/images/projects/pamedios-brand.svg"
+image: "/images/projects/flyup-reference-1.png"
 badges: ["Communication", "Digital marketing", "Content", "Coordination"]
 tags: ["Communication", "Digital marketing", "Content", "Strategy"]
 weight: 1
@@ -82,6 +82,6 @@ This experience helped me understand businesses, organize priorities, coordinate
 
 ## Visual material
 
-As a visual reference, the Fly Up web page helps show the kind of institutional delivery and finish level I was working with.
+As a visual reference, the Fly Up website helps show the kind of institutional delivery and finish level I was working with.
 
 ![Fly Up - institutional website](/images/projects/flyup-reference-1.png)

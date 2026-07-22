@@ -3,7 +3,7 @@ title: "PAMedios"
 date: 2026-07-15
 description: "Proyecto de comunicación y marketing digital para clientes diversos, con foco en estrategia, contenidos y coordinación."
 summary: "Experiencia de más de 20 clientes en comunicación, contenidos, campañas y coordinación multidisciplinar."
-image: "/images/projects/pamedios-brand.svg"
+image: "/images/projects/flyup-reference-1.png"
 badges: ["Comunicación", "Marketing digital", "Contenidos", "Coordinación"]
 tags: ["Comunicación", "Marketing digital", "Contenidos", "Estrategia"]
 weight: 1
@@ -82,6 +82,6 @@ Esta experiencia me sirvió para entender negocios, ordenar prioridades, coordin
 
 ## Material visual
 
-Como referencia visual, la captura de la web de Fly Up ayuda a mostrar el tipo de entrega institucional y el nivel de acabado del trabajo web.
+Como referencia visual, la web de Fly Up ayuda a mostrar el tipo de entrega institucional y el nivel de acabado del trabajo web.
 
 ![Fly Up - web institucional](/images/projects/flyup-reference-1.png)

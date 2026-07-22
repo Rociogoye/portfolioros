@@ -102,6 +102,7 @@ languages:
           enable: true
           title: "Technologies and tools I work with:"
           items:
+            - "Figma"
             - "Web content and editorial management"
             - "Communication and digital marketing"
             - "Content management and CMS"
@@ -122,7 +123,7 @@ languages:
         items:
           - title: "Web design and development"
             school:
-              name: "CIFO Barcelona La Violeta"
+              name: "CIFO La Violeta- Barcelona"
             date: "560 hours"
             content: "Practical training in frontend development, PHP, MySQL, accessibility, publishing, and website maintenance."
           - title: "JavaScript with AI"
@@ -195,6 +196,7 @@ languages:
           enable: true
           title: "Tecnologías y herramientas con las que trabajo:"
           items:
+            - "Figma"
             - "Web content y gestión editorial"
             - "Comunicación y marketing digital"
             - "Gestión de contenidos y CMS"
