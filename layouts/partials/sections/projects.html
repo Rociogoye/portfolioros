@@ -1,7 +1,7 @@
 {{ if .Site.Params.projects.enable | default false }}
 <section id="projects" class="py-5">
     <div class="container">
-        <div class="section-kicker text-center">Selected projects</div>
+        <div class="section-kicker text-center">{{ if eq .Site.Language.Lang "es" }}Proyectos seleccionados{{ else }}Selected projects{{ end }}</div>
         <h3 class="text-center">{{ .Site.Params.projects.title | default (i18n "projects") }}</h3>
         <div class="row justify-content-center px-3 px-md-5">
             {{ range sort (where .Site.RegularPages "Type" "projects") "Weight" }}
@@ -32,7 +32,7 @@
                         </span>
                         {{ end }}
                         <span class="float-end">
-                            <a class="btn btn-sm" href="{{ .RelPermalink }}">View project</a>
+                            <a class="btn btn-sm" href="{{ .RelPermalink }}">{{ if eq .Site.Language.Lang "es" }}Ver proyecto{{ else }}View project{{ end }}</a>
                         </span>
                     </div>
                 </article>

@@ -41,7 +41,7 @@
                     {{ end }}
                     <span class="float-end">
                         <a class="btn btn-sm" href="{{ .RelPermalink }}">
-                            View project
+                            {{ if eq .Site.Language.Lang "es" }}Ver proyecto{{ else }}View project{{ end }}
                         </a>
                     </span>
                 </div>
