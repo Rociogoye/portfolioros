@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Imagen provisional de Escuela de Verano</title>
+  <desc id="desc">Composición editorial inspirada en una página educativa de verano.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff9b70"/><stop offset="1" stop-color="#ffd76d"/></linearGradient></defs>
+  <rect width="1200" height="750" fill="#fff8e7"/>
+  <circle cx="1030" cy="120" r="210" fill="url(#g)"/>
+  <path d="M0 590c180-120 330-100 490 0s322 118 710-30v190H0Z" fill="#295c54"/>
+  <rect x="105" y="105" width="690" height="445" rx="30" fill="#fff" stroke="#e7d7bd" stroke-width="4"/>
+  <rect x="150" y="150" width="100" height="18" rx="9" fill="#e67d57"/>
+  <text x="150" y="260" font-family="Georgia,serif" font-size="76" font-weight="700" fill="#263f3a">Escuela</text>
+  <text x="150" y="345" font-family="Georgia,serif" font-size="76" font-weight="700" fill="#263f3a">de Verano</text>
+  <rect x="150" y="390" width="480" height="16" rx="8" fill="#b8aca0"/>
+  <rect x="150" y="424" width="370" height="16" rx="8" fill="#d4c8bb"/>
+  <rect x="150" y="474" width="170" height="52" rx="26" fill="#e67d57"/>
+  <text x="935" y="670" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#fff">IMAGEN PROVISIONAL</text>
+</svg>
+

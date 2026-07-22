@@ -1,0 +1,267 @@
+baseURL: "http://localhost:1313/"
+locale: "es-es"
+defaultContentLanguage: "es"
+defaultContentLanguageInSubdir: false
+title: "Rocío Goyeneche Jazbec | Desarrollo web"
+theme: "hugo-profile"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  title: "Rocío Goyeneche Jazbec"
+  description: "Portfolio de Rocío Goyeneche Jazbec, profesional de comunicación, marketing digital y desarrollo web."
+  favicon: "/images/favicon.svg"
+  animate: true
+  useBootstrapCDN: false
+
+  theme:
+    defaultTheme: "dark"
+    disableThemeToggle: false
+
+  color:
+    textColor: "#22243a"
+    secondaryTextColor: "#62647a"
+    textLinkColor: "#a13d63"
+    backgroundColor: "#fff9f6"
+    secondaryBackgroundColor: "#f4e7eb"
+    primaryColor: "#a13d63"
+    secondaryColor: "#fffefe"
+    darkmode:
+      textColor: "#f6eef2"
+      secondaryTextColor: "#c8bac5"
+      textLinkColor: "#ff9fbd"
+      backgroundColor: "#0d1020"
+      secondaryBackgroundColor: "#19162b"
+      primaryColor: "#ff8fb1"
+      secondaryColor: "#15182b"
+
+  font:
+    fontSize: "1.05rem"
+    fontWeight: 400
+    lineHeight: 1.7
+    textAlign: left
+
+  navbar:
+    brandName: "Rocío.dev"
+    showBrandLogo: false
+    disableSearch: true
+    align: "ms-auto"
+    stickyNavBar:
+      enable: true
+      showOnScrollUp: true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: true
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: true
+      disableContact: false
+
+languages:
+  es:
+    label: "Español"
+    weight: 1
+    params:
+      hero:
+        enable: true
+        intro: "Hola, soy Rocío."
+        title: ""
+        subtitle: "Content web, comunicación y marketing digital."
+        content: "Creo y organizo experiencias digitales con foco en contenido, estructura y claridad visual. Combino criterio editorial, CMS y formación web para construir proyectos cuidados y funcionales."
+        image: "/images/hero-portfolio.svg"
+        bottomImage:
+          enable: false
+        button:
+          enable: true
+          name: "Ver mis proyectos"
+          url: "#projects"
+          download: false
+          newPage: false
+        socialLinks:
+          fontAwesomeIcons:
+            - icon: "fab fa-github"
+              url: "https://github.com/Rociogoye"
+            - icon: "fab fa-linkedin-in"
+              url: "https://www.linkedin.com/in/rocio-goyeneche-jazbec/"
+
+      about:
+        enable: true
+        title: "Sobre mí"
+        content: |-
+          Soy Rocío, `web content specialist` con más de 10 años de experiencia en contenidos digitales, campañas, coordinación con equipos creativos y control de calidad editorial. Mi base profesional está en la comunicación y el marketing digital, y desde ahí fui ampliando mi perfil hacia la web para unir estrategia, contenido y desarrollo en un mismo trabajo.
+
+          He realizado el curso de Confección y Publicación de Páginas Web de 560 horas, con foco en HTML, CSS, JavaScript básico, responsive design, accesibilidad, publicación y mantenimiento web. También estoy finalizando una formación de 150 horas de Programador Junior de JavaScript con IA, centrada en algorítmica, resolución de problemas, inteligencia artificial aplicada y desarrollo de aplicaciones con JavaScript.
+
+          Me interesa combinar contenido, diseño y desarrollo para crear webs claras, útiles y bien resueltas. Trabajo con WordPress como CMS y también con Hugo.io, y estoy aprendiendo a usar Node.js, Ollama y otras herramientas de IA aplicadas al código y a la productividad.
+        skills:
+          enable: true
+          title: "Tecnologías y herramientas con las que trabajo:"
+          items:
+            - "Web content y gestión editorial"
+            - "Comunicación y marketing digital"
+            - "Gestión de contenidos y CMS"
+            - "WordPress, Elementor y Hugo.io"
+            - "HTML5, CSS3 y responsive design"
+            - "JavaScript y bases de algorítmica"
+            - "PHP, MySQL, Git y GitHub"
+            - "Node.js, Ollama y herramientas de IA"
+            - "Accesibilidad y control editorial"
+
+      experience:
+        enable: false
+
+      education:
+        enable: true
+        title: "Formación"
+        index: false
+        items:
+          - title: "Confección y publicación de páginas web"
+            school:
+              name: "CIFO Barcelona La Violeta"
+            date: "560 horas"
+            content: "Formación práctica en desarrollo frontend, PHP, MySQL, accesibilidad, publicación y mantenimiento de sitios web."
+          - title: "Programador Junior de JavaScript con IA"
+            school:
+              name: "Formación en curso"
+            date: "150 horas"
+            content: "Especialización en JavaScript y herramientas con IA, orientada a reforzar lógica, interacción, desarrollo frontend y automatización de tareas."
+          - title: "Licenciatura en Comunicación"
+            school:
+              name: "Universidad Nacional de General Sarmiento"
+            date: "Finalizada"
+            content: "Base sólida en análisis de comunicación, producción de contenidos y lectura crítica de contextos, aplicada hoy al entorno digital."
+
+      achievements:
+        enable: false
+
+      projects:
+        enable: true
+        title: "Proyectos seleccionados"
+
+      contact:
+        enable: true
+        title: "Hablemos"
+        content: "Estoy abierta a colaborar en proyectos web, de contenido y de marketing digital donde haya que definir, organizar y sacar trabajo adelante con criterio."
+        btnName: "Visitar mi GitHub"
+        btnLink: "https://github.com/Rociogoye"
+
+      footer:
+        recentPosts:
+          enable: false
+        socialNetworks:
+          github: "https://github.com/Rociogoye"
+          linkedin: "https://www.linkedin.com/in/rocio-goyeneche-jazbec/"
+  en:
+    label: "English"
+    weight: 2
+    params:
+      hero:
+        enable: true
+        intro: "Hi, I'm Rocío."
+        title: ""
+        subtitle: "Content, communication, and digital marketing."
+        content: "I create and organize digital experiences with a focus on content, structure, and visual clarity. I combine editorial judgment, CMS work, and web training to build thoughtful, functional projects."
+        image: "/images/hero-portfolio.svg"
+        bottomImage:
+          enable: false
+        button:
+          enable: true
+          name: "View my projects"
+          url: "#projects"
+          download: false
+          newPage: false
+        socialLinks:
+          fontAwesomeIcons:
+            - icon: "fab fa-github"
+              url: "https://github.com/Rociogoye"
+            - icon: "fab fa-linkedin-in"
+              url: "https://www.linkedin.com/in/rocio-goyeneche-jazbec/"
+
+      about:
+        enable: true
+        title: "About me"
+        content: |-
+          I am Rocío, a `web content specialist` with more than 10 years of experience in digital content, campaigns, coordination with creative teams, and editorial quality control. My professional background is in communication and digital marketing, and from there I expanded into web work to connect strategy, content, and development in one profile.
+
+          I completed a 560-hour course in website creation and publishing, focused on HTML, CSS, basic JavaScript, responsive design, accessibility, publishing, and website maintenance. I am also finishing a 150-hour Junior JavaScript Programmer with AI course, focused on algorithms, problem solving, applied AI, and JavaScript applications.
+
+          I enjoy combining content, design, and development to build clear, useful, well-resolved websites. I work with WordPress as a CMS and also with Hugo.io, and I am learning Node.js, Ollama, and other AI tools for coding and productivity.
+        skills:
+          enable: true
+          title: "Technologies and tools I work with:"
+          items:
+            - "Web content and editorial management"
+            - "Communication and digital marketing"
+            - "Content management and CMS"
+            - "WordPress, Elementor, and Hugo.io"
+            - "HTML5, CSS3, and responsive design"
+            - "JavaScript and algorithmic fundamentals"
+            - "PHP, MySQL, Git, and GitHub"
+            - "Node.js, Ollama, and AI tools"
+            - "Accessibility and editorial QA"
+
+      experience:
+        enable: false
+
+      education:
+        enable: true
+        title: "Education"
+        index: false
+        items:
+          - title: "Website creation and publishing"
+            school:
+              name: "CIFO Barcelona La Violeta"
+            date: "560 hours"
+            content: "Practical training in frontend development, PHP, MySQL, accessibility, publishing, and website maintenance."
+          - title: "Junior JavaScript Programmer with AI"
+            school:
+              name: "In progress"
+            date: "150 hours"
+            content: "Specialization in JavaScript and AI tools, focused on logic, interaction, frontend development, and task automation."
+          - title: "BA in Communication"
+            school:
+              name: "Universidad Nacional de General Sarmiento"
+            date: "Completed"
+            content: "Strong foundation in communication analysis, content production, and critical reading of contexts, now applied to digital work."
+
+      achievements:
+        enable: false
+
+      projects:
+        enable: true
+        title: "Selected projects"
+
+      contact:
+        enable: true
+        title: "Let's talk"
+        content: "I am open to web, content, and digital marketing projects where work needs to be defined, organized, and delivered with judgment."
+        btnName: "Visit my GitHub"
+        btnLink: "https://github.com/Rociogoye"
+
+      footer:
+        recentPosts:
+          enable: false
+        socialNetworks:
+          github: "https://github.com/Rociogoye"
+          linkedin: "https://www.linkedin.com/in/rocio-goyeneche-jazbec/"
+
+  singlePages:
+    socialShare: false
+    readTime:
+      enable: false
+    scrollprogress:
+      enable: true
+    tags:
+      openInNewTab: false
+
+  terms:
+    read: "Leer"
+    toc: "En esta página"
+    tags: "Tecnologías"
+    copyright: "Todos los derechos reservados"
+    emailText: "Mira este proyecto"

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">PAMedios, estrategia y coordinación</title>
+  <desc id="desc">Composición editorial con documentos, bloques de contenido y elementos visuales de planificación.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff7f3"/>
+      <stop offset="1" stop-color="#efe2f1"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5b2d55"/>
+      <stop offset="1" stop-color="#a13d63"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <circle cx="1015" cy="130" r="170" fill="#a13d63" opacity=".14"/>
+  <circle cx="155" cy="620" r="160" fill="#7d5cff" opacity=".12"/>
+  <rect x="100" y="110" width="560" height="450" rx="30" fill="#ffffff" stroke="#ead7df" stroke-width="4"/>
+  <rect x="145" y="155" width="180" height="18" rx="9" fill="url(#ink)"/>
+  <rect x="145" y="205" width="360" height="18" rx="9" fill="#c7b3be"/>
+  <rect x="145" y="238" width="300" height="18" rx="9" fill="#d8c9d2"/>
+  <rect x="145" y="290" width="445" height="24" rx="12" fill="#f4e7eb"/>
+  <rect x="145" y="332" width="390" height="24" rx="12" fill="#f4e7eb"/>
+  <rect x="145" y="374" width="420" height="24" rx="12" fill="#f4e7eb"/>
+  <rect x="145" y="446" width="150" height="44" rx="22" fill="#a13d63"/>
+  <text x="220" y="474" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Planificar</text>
+  <g transform="translate(735 160)">
+    <rect width="360" height="360" rx="28" fill="#fff" stroke="#ead7df" stroke-width="4"/>
+    <rect x="34" y="34" width="292" height="36" rx="18" fill="#f2e7f0"/>
+    <rect x="34" y="94" width="232" height="18" rx="9" fill="#d8c9d2"/>
+    <rect x="34" y="128" width="262" height="18" rx="9" fill="#d8c9d2"/>
+    <rect x="34" y="168" width="292" height="86" rx="20" fill="#19162b"/>
+    <rect x="54" y="190" width="116" height="14" rx="7" fill="#ff9fbd"/>
+    <rect x="54" y="214" width="162" height="14" rx="7" fill="#c8bac5"/>
+    <rect x="34" y="276" width="88" height="34" rx="17" fill="#a13d63"/>
+    <rect x="128" y="276" width="88" height="34" rx="17" fill="#7d5cff"/>
+    <rect x="222" y="276" width="104" height="34" rx="17" fill="#f0d4dd"/>
+  </g>
+  <text x="875" y="585" text-anchor="middle" font-family="Georgia, serif" font-size="40" font-weight="700" fill="#5b2d55">PAMedios</text>
+  <text x="875" y="622" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#7a6571">Estrategia, contenido y coordinación</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 820" role="img" aria-labelledby="title desc">
+  <title id="title">Composición abstracta sobre diseño y desarrollo web</title>
+  <desc id="desc">Ventanas superpuestas con código, formas orgánicas y una estrella.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ff8fb1"/>
+      <stop offset="1" stop-color="#7d5cff"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fff" stop-opacity=".94"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".75"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="820" rx="64" fill="#14172b"/>
+  <circle cx="620" cy="120" r="155" fill="url(#bg)" opacity=".8"/>
+  <circle cx="92" cy="730" r="185" fill="#31c6b0" opacity=".52"/>
+  <path d="M136 184c112-102 299-105 406 3s95 283-13 389-288 116-402 10-103-299 9-402Z" fill="#0d1020" opacity=".4"/>
+  <g transform="translate(105 145)">
+    <rect width="510" height="520" rx="28" fill="url(#glass)"/>
+    <rect width="510" height="72" rx="28" fill="#f2eaf0"/>
+    <path d="M0 72h510" stroke="#d9cbd6"/>
+    <circle cx="40" cy="36" r="9" fill="#ff6f91"/>
+    <circle cx="70" cy="36" r="9" fill="#f6c95e"/>
+    <circle cx="100" cy="36" r="9" fill="#45cba7"/>
+    <rect x="40" y="112" width="210" height="24" rx="12" fill="#a13d63"/>
+    <rect x="40" y="154" width="330" height="14" rx="7" fill="#9d91a0"/>
+    <rect x="40" y="180" width="275" height="14" rx="7" fill="#b5abb6"/>
+    <rect x="40" y="234" width="195" height="190" rx="22" fill="#19162b"/>
+    <path d="m82 326 42-38m-42 38 42 38m73-76 42 38-42 38m-45 26 28-128" fill="none" stroke="#ff9fbd" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="270" y="234" width="198" height="26" rx="13" fill="#7d5cff"/>
+    <rect x="270" y="282" width="162" height="13" rx="6.5" fill="#9d91a0"/>
+    <rect x="270" y="310" width="188" height="13" rx="6.5" fill="#b5abb6"/>
+    <rect x="270" y="338" width="140" height="13" rx="6.5" fill="#b5abb6"/>
+    <rect x="270" y="388" width="112" height="38" rx="19" fill="#a13d63"/>
+    <path d="M439 92 448 116 472 125 448 134 439 158 430 134 406 125 430 116Z" fill="#ff8fb1"/>
+  </g>
+</svg>
+
