@@ -172,7 +172,7 @@ languages:
           enable: false
         button:
           enable: true
-          name: "View my projects"
+          name: "Ver proyectos"
           url: "#projects"
           download: false
           newPage: false
