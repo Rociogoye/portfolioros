@@ -35,7 +35,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "https://rociogoyeneche.github.io/cifo-editonline/"
+        run: hugo --minify --baseURL "https://rociogoye.github.io/portfolioros/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
