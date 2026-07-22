@@ -78,7 +78,7 @@ languages:
           enable: false
         button:
           enable: true
-          name: "Ver mis proyectos"
+          name: "View my projects"
           url: "#projects"
           download: false
           newPage: false
@@ -93,9 +93,9 @@ languages:
         enable: true
         title: "About me"
         content: |-
-          I am Rocío, a `web content specialist` with more than 10 years of experience in digital content, campaigns, coordination with creative teams, and editorial quality control. My professional background is in communication and digital marketing, and from there I expanded into web work to connect strategy, content, and development in one profile.
+          I am Rocío, a `web content specialist` with more than 10 years of experience in digital content, campaigns, coordination with creative teams, and editorial quality control. My background is in communication and digital marketing, and from there I expanded into web work to connect strategy, content, and development in one profile.
 
-          I completed a 560-hour course in website creation and publishing, focused on HTML, CSS, basic JavaScript, responsive design, accessibility, publishing, and website maintenance. I am also completing a 150-hour JavaScript with AI course, focused on algorithms, problem solving, applied AI, and JavaScript applications.
+          I completed a 560-hour web design and development course focused on HTML, CSS, basic JavaScript, responsive design, accessibility, publishing, and website maintenance. I am also completing a 150-hour JavaScript with AI course, focused on algorithms, problem solving, applied AI, and JavaScript applications.
 
           I enjoy combining content, design, and development to build clear, useful, well-resolved websites. I work with WordPress as a CMS and also with static websites built with [Hugo](https://gohugo.io/), and I am learning Node.js, Ollama, ChatGPT, Codex, and other AI-assisted development tools.
         skills:
@@ -120,20 +120,20 @@ languages:
         title: "Education"
         index: false
         items:
-          - title: "Confección y publicación de páginas web"
+          - title: "Web design and development"
             school:
               name: "CIFO Barcelona La Violeta"
-            date: "560 horas"
+            date: "560 hours"
             content: "Practical training in frontend development, PHP, MySQL, accessibility, publishing, and website maintenance."
           - title: "JavaScript with AI"
             school:
               name: "In progress"
-            date: "150 horas"
+            date: "150 hours"
             content: "Specialization in JavaScript and AI tools, focused on logic, interaction, frontend development, and task automation."
-          - title: "Licenciatura en Comunicación"
+          - title: "Bachelor in Communications"
             school:
               name: "Universidad Nacional de General Sarmiento"
-            date: "Finalizada"
+            date: "Completed"
             content: "Strong foundation in communication analysis, content production, and critical reading of contexts, now applied to digital work."
 
       achievements:
