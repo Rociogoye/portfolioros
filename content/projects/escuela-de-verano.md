@@ -4,7 +4,7 @@ date: 2026-07-13
 description: "Landing de la Escuela de Verano 2026 realizada con WordPress y Elementor para Orientadora de Orientadores."
 summary: "Landing creada con WordPress y Elementor para presentar y comercializar la Escuela de Verano 2026."
 image: "/images/projects/escuela-verano.png"
-badges: ["WordPress", "Elementor", "Responsive"]
+badges: ["WordPress", "Elementor", "Diseño responsive"]
 tags: ["WordPress", "Elementor", "Diseño web"]
 links:
   - icon: "fas fa-arrow-up-right-from-square"

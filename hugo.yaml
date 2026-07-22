@@ -165,7 +165,7 @@ languages:
         enable: true
         intro: "Hola, soy Rocío."
         title: ""
-        subtitle: "Content web, comunicación y marketing digital."
+        subtitle: "Contenido web, comunicación y marketing digital."
         content: "Creo y organizo experiencias digitales con foco en contenido, estructura y claridad visual. Combino criterio editorial, CMS y formación web para construir proyectos cuidados y funcionales."
         image: "/images/hero-portfolio.svg"
         bottomImage:
@@ -187,11 +187,11 @@ languages:
         enable: true
         title: "Sobre mí"
         content: |-
-          Soy Rocío, `web content specialist` con más de 10 años de experiencia en contenidos digitales, campañas, coordinación con equipos creativos y control de calidad editorial. Mi base profesional está en la comunicación y el marketing digital, y desde ahí fui ampliando mi perfil hacia la web para unir estrategia, contenido y desarrollo en un mismo trabajo.
+          Soy Rocío, especialista en contenido web con más de 10 años de experiencia en contenidos digitales, campañas, coordinación con equipos creativos y control de calidad editorial. Mi base profesional está en la comunicación y el marketing digital, y desde ahí fui ampliando mi perfil hacia la web para unir estrategia, contenido y desarrollo en un mismo trabajo.
 
-          He realizado el curso de Confección y Publicación de Páginas Web de 560 horas, con foco en HTML, CSS, JavaScript básico, responsive design, accesibilidad, publicación y mantenimiento web. También estoy completando una formación de 150 horas de JavaScript con IA, centrada en algorítmica, resolución de problemas, inteligencia artificial aplicada y desarrollo de aplicaciones con JavaScript.
+          He realizado el curso de Confección y Publicación de Páginas Web de 560 horas, con foco en HTML, CSS, JavaScript básico, diseño responsive, accesibilidad, publicación y mantenimiento web. También estoy completando una formación de 150 horas de JavaScript con IA, centrada en algorítmica, resolución de problemas, inteligencia artificial aplicada y desarrollo de aplicaciones con JavaScript.
 
-          Me interesa combinar contenido, diseño y desarrollo para crear webs claras, útiles y bien resueltas. Trabajo con WordPress como CMS y también con sitios estáticos hechos con [Hugo](https://gohugo.io/), y estoy aprendiendo a usar Node.js, Ollama, ChatGPT, Codex y otras herramientas de AI-assisted development.
+          Me interesa combinar contenido, diseño y desarrollo para crear webs claras, útiles y bien resueltas. Trabajo con WordPress como CMS y también con sitios estáticos hechos con [Hugo](https://gohugo.io/), y estoy aprendiendo a usar Node.js, Ollama, ChatGPT, Codex y otras herramientas de desarrollo asistido por IA.
         skills:
           enable: true
           title: "Tecnologías y herramientas con las que trabajo:"
@@ -201,10 +201,10 @@ languages:
             - "Comunicación y marketing digital"
             - "Gestión de contenidos y CMS"
             - "WordPress, Elementor y sitios estáticos con Hugo"
-            - "HTML5, CSS3 y responsive design"
+            - "HTML5, CSS3 y diseño responsive"
             - "JavaScript y bases de algorítmica"
             - "PHP, MySQL, Git y GitHub"
-            - "Node.js, Ollama, ChatGPT, Codex y AI-assisted development"
+            - "Node.js, Ollama, ChatGPT, Codex y desarrollo asistido por IA"
             - "Accesibilidad y control editorial"
 
       experience:
@@ -215,21 +215,21 @@ languages:
         title: "Formación"
         index: false
         items:
-          - title: "Web design and development"
+          - title: "Diseño y desarrollo web"
             school:
               name: "CIFO Barcelona La Violeta"
-            date: "560 hours"
-            content: "Practical training in frontend development, PHP, MySQL, accessibility, publishing, and website maintenance."
+            date: "560 horas"
+            content: "Formación práctica en desarrollo frontend, PHP, MySQL, accesibilidad, publicación y mantenimiento de sitios web."
           - title: "JavaScript con IA"
             school:
               name: "In progress"
-            date: "150 hours"
-            content: "Specialization in JavaScript and AI tools, focused on logic, interaction, frontend development, and task automation."
-          - title: "Bachelor in Communications"
+            date: "150 horas"
+            content: "Especialización en JavaScript y herramientas con IA, orientada a reforzar lógica, interacción, desarrollo frontend y automatización de tareas."
+          - title: "Licenciatura en Comunicación"
             school:
               name: "Universidad Nacional de General Sarmiento"
-            date: "Completed"
-            content: "Strong foundation in communication analysis, content production, and critical reading of contexts, now applied to digital work."
+            date: "Finalizada"
+            content: "Base sólida en análisis de comunicación, producción de contenidos y lectura crítica de contextos, aplicada hoy al entorno digital."
 
       achievements:
         enable: false

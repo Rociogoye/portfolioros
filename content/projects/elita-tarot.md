@@ -15,7 +15,7 @@ draft: false
 
 **Elita Tarot** será una landing page de una sola página diseñada para comunicar una propuesta cercana, generar confianza y facilitar la reserva de una consulta.
 
-Este proyecto complementará los otros trabajos del portfolio porque estará construido desde cero, sin WordPress, usando Hugo.io como base estática, y permitirá mostrar decisiones propias de diseño y desarrollo frontend.
+Este proyecto complementará los otros trabajos del portfolio porque estará construido desde cero, sin WordPress, usando Hugo como base estática, y permitirá mostrar decisiones propias de diseño y desarrollo web.
 
 ## Contexto y problema
 
@@ -35,7 +35,7 @@ Este proyecto complementará los otros trabajos del portfolio porque estará con
 1. Definición del mensaje principal y de la llamada a la acción.
 2. Organización de secciones para reducir fricción.
 3. Diseño de una experiencia sencilla y directa.
-4. Implementación con Hugo.io, HTML, CSS y JavaScript.
+4. Implementación con Hugo, HTML, CSS y JavaScript.
 5. Preparación para futura validación visual con captura real.
 
 ## Objetivos

@@ -4,7 +4,7 @@ date: 2026-07-14
 description: "Aplicación web activa para organizar la salud y los cuidados de una o varias mascotas."
 summary: "Aplicación web publicada para registrar mascotas y organizar vacunas, medicación y citas."
 image: "/images/projects/la-emmapp-hero-real.png"
-badges: ["PHP", "MySQL", "JavaScript", "Responsive"]
+badges: ["PHP", "MySQL", "JavaScript", "Diseño responsive"]
 tags: ["PHP", "MySQL", "JavaScript", "HTML", "CSS"]
 links:
   - icon: "fab fa-github"

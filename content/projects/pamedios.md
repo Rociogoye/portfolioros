@@ -21,7 +21,7 @@ Esta experiencia me sirvió para entender negocios, ordenar prioridades, coordin
 
 - Clientes con objetivos distintos y mensajes que necesitaban orden.
 - Equipos creativos y técnicos que debían trabajar coordinados.
-- Necesidad de traducir briefs amplios en piezas concretas y publicables.
+- Necesidad de traducir encargos amplios en piezas concretas y publicables.
 - Proyectos con plazos, cambios de última hora y múltiples canales.
 
 ## Mi rol
@@ -41,11 +41,11 @@ Esta experiencia me sirvió para entender negocios, ordenar prioridades, coordin
 5. Revisión de calidad antes de publicar o entregar.
 6. Seguimiento de resultados y ajustes.
 
-## Coordinación y Project Management
+## Coordinación y gestión de proyectos
 
 - Más de 20 clientes con necesidades diferentes.
 - Trabajo con diseñadores, perfiles web y creativos.
-- Comunicación continua con stakeholders para alinear prioridades.
+- Comunicación continua con las personas implicadas para alinear prioridades.
 - Gestión de cambios de alcance, tiempos y entregas.
 - Supervisión de calidad para mantener consistencia en campañas y piezas.
 
@@ -58,7 +58,7 @@ Esta experiencia me sirvió para entender negocios, ordenar prioridades, coordin
 
 ## Problemas y soluciones
 
-- Problema: briefs amplios y poco aterrizados.
+- Problema: encargos amplios y poco aterrizados.
 - Solución: convertirlos en un plan de acción con prioridades.
 - Problema: demasiados interlocutores.
 - Solución: ordenar flujos y centralizar revisiones.
