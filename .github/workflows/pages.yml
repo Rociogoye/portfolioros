@@ -26,6 +26,7 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
 
       - name: Setup Hugo
@@ -35,7 +36,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "https://rociogoye.github.io/portfolioros/"
+        run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
