@@ -213,7 +213,7 @@ languages:
         title: "Formación"
         index: false
         items:
-          - title: "Website creation and publishing"
+          - title: "Web design and development"
             school:
               name: "CIFO Barcelona La Violeta"
             date: "560 hours"
@@ -223,7 +223,7 @@ languages:
               name: "In progress"
             date: "150 hours"
             content: "Specialization in JavaScript and AI tools, focused on logic, interaction, frontend development, and task automation."
-          - title: "BA in Communication"
+          - title: "Bachelor in Communications"
             school:
               name: "Universidad Nacional de General Sarmiento"
             date: "Completed"
