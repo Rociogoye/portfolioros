@@ -1,9 +1,45 @@
 {{ if .Site.Params.projects.enable | default false }}
+{{- $projects := .Site.Language.Params.projects | default .Site.Params.projects -}}
 <section id="projects" class="py-5">
     <div class="container">
         <div class="section-kicker text-center">{{ if eq .Site.Language.Lang "es" }}Proyectos seleccionados{{ else }}Selected projects{{ end }}</div>
-        <h3 class="text-center">{{ .Site.Params.projects.title | default (i18n "projects") }}</h3>
+        <h3 class="text-center">{{ $projects.title | default .Site.Params.projects.title | default (i18n "projects") }}</h3>
         <div class="row justify-content-center px-3 px-md-5">
+            {{ if $projects.items }}
+            {{ range $projects.items }}
+            {{ $item := . }}
+            <div class="col-lg-4 col-md-6 my-3">
+                <article class="card project-card my-3 h-100" title="{{ $item.title }}">
+                    <div class="card-head">
+                        <img class="card-img-top" src="{{ $item.image | strings.TrimPrefix "/" | relURL }}" alt="Vista previa de {{ $item.title }}">
+                    </div>
+                    <div class="card-body bg-transparent p-4">
+                        <div class="pb-2 bg-transparent">
+                            {{ range $item.badges }}
+                            <span class="badge badge-secondary">{{ . }}</span>
+                            {{ end }}
+                        </div>
+                        <h4 class="card-title bg-transparent mt-2">{{ $item.title }}</h4>
+                        <div class="card-text bg-transparent secondary-font">
+                            {{ $item.content }}
+                        </div>
+                    </div>
+                    <div class="card-footer py-3 px-4">
+                        {{ range $item.links }}
+                        <span class="me-3">
+                            <a href="{{ .url }}" target="_blank" rel="noopener" aria-label="Abrir enlace externo de {{ $item.title }}">
+                                <i class="{{ .icon }}"></i>
+                            </a>
+                        </span>
+                        {{ end }}
+                        <span class="float-end">
+                            <a class="btn btn-sm" href="{{ with $item.featured }}{{ .link }}{{ else }}#{{ end }}">{{ if eq $.Site.Language.Lang "es" }}Ver proyecto{{ else }}View project{{ end }}</a>
+                        </span>
+                    </div>
+                </article>
+            </div>
+            {{ end }}
+            {{ else }}
             {{ range sort (where .Site.RegularPages "Type" "projects") "Weight" }}
             {{ if .Params.showInHome | default true }}
             {{ $project := . }}
@@ -37,6 +73,7 @@
                     </div>
                 </article>
             </div>
+            {{ end }}
             {{ end }}
             {{ end }}
         </div>

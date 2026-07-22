@@ -237,6 +237,62 @@ languages:
       projects:
         enable: true
         title: "Proyectos seleccionados"
+        items:
+          - title: "PAMedios"
+            content: "Experiencia de más de 20 clientes en comunicación, contenidos, campañas y coordinación multidisciplinar."
+            image: "/images/projects/flyup-reference-1.png"
+            badges:
+              - "Comunicación"
+              - "Marketing digital"
+              - "Contenidos"
+              - "Coordinación"
+            links:
+              - icon: fab fa-linkedin-in
+                url: "https://www.linkedin.com/in/rocio-goyeneche-jazbec/"
+            featured:
+              name: "Ver proyecto"
+              link: "/projects/pamedios/"
+          - title: "La EmmApp"
+            content: "Aplicación web publicada para registrar mascotas y organizar vacunas, medicación y citas."
+            image: "/images/projects/la-emmapp-hero-real.png"
+            badges:
+              - "PHP"
+              - "MySQL"
+              - "JavaScript"
+              - "Diseño responsive"
+            links:
+              - icon: fab fa-github
+                url: "https://github.com/Rociogoye/WEBapplaemmapp"
+              - icon: fas fa-arrow-up-right-from-square
+                url: "https://laemmapp.22web.org/"
+            featured:
+              name: "Ver proyecto"
+              link: "/projects/la-emmapp/"
+          - title: "Escuela de verano"
+            content: "Landing realizada con WordPress y Elementor para presentar la Escuela de Verano 2026."
+            image: "/images/projects/escuela-verano.png"
+            badges:
+              - "WordPress"
+              - "Elementor"
+              - "Diseño responsive"
+            links:
+              - icon: fas fa-arrow-up-right-from-square
+                url: "https://orientadoradeorientadores.com/formacion/escuela-verano-orientacion-laboral/"
+            featured:
+              name: "Ver proyecto"
+              link: "/projects/escuela-de-verano/"
+          - title: "Elita Tarot"
+            content: "Concepto de landing page one-page para una profesional del tarot."
+            image: "/images/projects/elita-tarot.svg"
+            badges:
+              - "HTML"
+              - "CSS"
+              - "JavaScript"
+              - "One-page"
+            links: []
+            featured:
+              name: "Ver proyecto"
+              link: "/projects/elita-tarot/"
 
       contact:
         enable: true
