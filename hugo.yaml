@@ -251,7 +251,7 @@ languages:
                 url: "https://www.linkedin.com/in/rocio-goyeneche-jazbec/"
             featured:
               name: "Ver proyecto"
-              link: "https://rociogoye.github.io/portfolioros/projects/pamedios/"
+              link: "projects/pamedios/"
           - title: "La EmmApp"
             content: "Aplicación web publicada para registrar mascotas y organizar vacunas, medicación y citas."
             image: "/images/projects/la-emmapp-hero-real.png"
@@ -267,7 +267,7 @@ languages:
                 url: "https://laemmapp.22web.org/"
             featured:
               name: "Ver proyecto"
-              link: "https://rociogoye.github.io/portfolioros/projects/la-emmapp/"
+              link: "projects/la-emmapp/"
           - title: "Escuela de verano"
             content: "Landing realizada con WordPress y Elementor para presentar la Escuela de Verano 2026."
             image: "/images/projects/escuela-verano.png"
@@ -280,7 +280,7 @@ languages:
                 url: "https://orientadoradeorientadores.com/formacion/escuela-verano-orientacion-laboral/"
             featured:
               name: "Ver proyecto"
-              link: "https://rociogoye.github.io/portfolioros/projects/escuela-de-verano/"
+              link: "projects/escuela-de-verano/"
           - title: "Elita Tarot"
             content: "Concepto de landing page one-page para una profesional del tarot."
             image: "/images/projects/elita-tarot.svg"
@@ -292,7 +292,7 @@ languages:
             links: []
             featured:
               name: "Ver proyecto"
-              link: "https://rociogoye.github.io/portfolioros/projects/elita-tarot/"
+              link: "projects/elita-tarot/"
 
       contact:
         enable: true
