@@ -284,14 +284,14 @@ languages:
               name: "Ver proyecto"
               linkEs: "projects/escuela-de-verano/"
               linkEn: "projects/escuela-de-verano/"
-          - title: "Elita Tarot"
-            content: "Concepto de landing page one-page para una profesional del tarot."
-            image: "/images/projects/elita-tarot.svg"
+          - title: "Luz Azul"
+            content: "Web institucional para una profesional del Tarot, con una experiencia nocturna, íntima y orientada a la reserva de lecturas."
+            image: "/images/projects/luzazul-hero.png"
             badges:
-              - "HTML"
-              - "CSS"
-              - "JavaScript"
-              - "One-page"
+              - "WordPress"
+              - "Kadence"
+              - "UX content"
+              - "Responsive"
             links: []
             featured:
               name: "Ver proyecto"

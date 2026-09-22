@@ -1,11 +1,11 @@
 ---
-title: "Elita Tarot"
+title: "Luz Azul"
 date: 2026-07-12
-description: "One-page landing concept for a tarot professional."
-summary: "One-page landing page designed to present tarot services and make bookings easier."
-image: "/images/projects/elita-tarot.svg"
-badges: ["HTML", "CSS", "JavaScript", "One-page"]
-tags: ["HTML", "CSS", "JavaScript", "Responsive design"]
+description: "Institutional website for Luz Azul, a symbolic Tarot accompaniment space."
+summary: "Tarot website with a night-style identity, clear structure, and a focus on booking readings."
+image: "/images/projects/luzazul-hero.png"
+badges: ["WordPress", "Kadence", "UX content", "Responsive"]
+tags: ["WordPress", "UX content", "Responsive design", "Content architecture"]
 weight: 4
 toc: true
 draft: false
@@ -13,9 +13,9 @@ draft: false
 
 ## The project
 
-**Elita Tarot** will be a single-page landing page designed to communicate a close, trustworthy proposal and make booking a consultation easy.
+**Luz Azul** is an institutional website for a Tarot professional, designed to communicate a close, trustworthy proposal and make booking a reading easy.
 
-This project complements the other portfolio pieces because it will be built from scratch without WordPress, using Hugo as the static base, and it will show my own design and frontend decisions.
+The website combines a night-style visual identity with a clear content architecture: introduction, symbolic accompaniment, readings, courses, information about Eli, blog, and contact.
 
 ## Context and problem
 
@@ -25,18 +25,18 @@ This project complements the other portfolio pieces because it will be built fro
 
 ## My role
 
-- Define the one-page structure.
+- Define the website structure and navigation.
 - Translate the offer into a coherent visual narrative.
 - Prioritize clarity, trust, and mobile conversion.
-- Build the piece with a lightweight, maintainable stack.
+- Organize content and review the WordPress implementation.
 
 ## Working process
 
-1. Defined the main message and call to action.
-2. Organized sections to reduce friction.
+1. Defined the main message and calls to action.
+2. Organized the content architecture and navigation.
 3. Designed a simple, direct experience.
-4. Implemented it with Hugo, HTML, CSS, and JavaScript.
-5. Prepared it for future visual validation with a real screenshot.
+4. Implemented and reviewed the responsive WordPress experience.
+5. Reviewed copy, links, forms, and the booking flow.
 
 ## Goals
 
@@ -48,7 +48,7 @@ This project complements the other portfolio pieces because it will be built fro
 ## Strategic decisions and UX
 
 - Put more weight on the message and booking than on content volume.
-- Keep a one-page navigation to avoid friction.
+- Keep a clear, hierarchical navigation to avoid friction.
 - Think mobile-first because this kind of service is often accessed quickly from a phone.
 - Use a night-style visual tone to reinforce identity and intimacy.
 
@@ -69,8 +69,8 @@ This project complements the other portfolio pieces because it will be built fro
 
 ## Tools
 
-The landing will be developed with **semantic HTML, CSS, and JavaScript**, paying attention to responsive design, performance, and accessibility.
+The website is built with **WordPress and Kadence**, with attention to responsive design, editorial clarity, performance, and accessibility.
 
 ## Status
 
-Project in definition phase. The image shown in the portfolio is a provisional visual reference and will be replaced with a real screenshot once the landing is built.
+Local website in development and review. The portfolio image shows the current Luz Azul home page.

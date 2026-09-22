@@ -1,11 +1,11 @@
 ---
-title: "Elita Tarot"
+title: "Luz Azul"
 date: 2026-07-12
-description: "Concepto de landing page one-page para una profesional del tarot."
-summary: "Landing page one-page pensada para presentar servicios de tarot y facilitar las reservas."
-image: "/images/projects/elita-tarot.svg"
-badges: ["HTML", "CSS", "JavaScript", "One-page"]
-tags: ["HTML", "CSS", "JavaScript", "Diseño responsive"]
+description: "Web institucional para Luz Azul, un espacio de acompañamiento simbólico con Tarot."
+summary: "Web de Tarot con identidad nocturna, estructura clara y foco en la reserva de lecturas."
+image: "/images/projects/luzazul-hero.png"
+badges: ["WordPress", "Kadence", "UX content", "Responsive"]
+tags: ["WordPress", "UX content", "Diseño responsive", "Arquitectura de contenidos"]
 weight: 4
 toc: true
 draft: false
@@ -13,9 +13,9 @@ draft: false
 
 ## El proyecto
 
-**Elita Tarot** será una landing page de una sola página diseñada para comunicar una propuesta cercana, generar confianza y facilitar la reserva de una consulta.
+**Luz Azul** es una web institucional para una profesional del Tarot, diseñada para comunicar una propuesta cercana, generar confianza y facilitar la reserva de una lectura.
 
-Este proyecto complementará los otros trabajos del portfolio porque estará construido desde cero, sin WordPress, usando Hugo como base estática, y permitirá mostrar decisiones propias de diseño y desarrollo web.
+La web combina una identidad visual nocturna con una arquitectura de contenidos clara: presentación, acompañamiento, lecturas, cursos, información sobre Eli, blog y contacto.
 
 ## Contexto y problema
 
@@ -25,18 +25,18 @@ Este proyecto complementará los otros trabajos del portfolio porque estará con
 
 ## Mi rol
 
-- Definir la estructura de la one-page.
+- Definir la estructura y la navegación de la web.
 - Traducir la propuesta a un relato visual coherente.
 - Priorizar claridad, confianza y conversión móvil.
-- Construir la pieza con un stack ligero y mantenible.
+- Organizar contenidos y revisar la implementación en WordPress.
 
 ## Proceso de trabajo
 
-1. Definición del mensaje principal y de la llamada a la acción.
-2. Organización de secciones para reducir fricción.
+1. Definición del mensaje principal y de las llamadas a la acción.
+2. Organización de la arquitectura de contenidos y navegación.
 3. Diseño de una experiencia sencilla y directa.
-4. Implementación con Hugo, HTML, CSS y JavaScript.
-5. Preparación para futura validación visual con captura real.
+4. Implementación y revisión responsive en WordPress.
+5. Revisión de textos, enlaces, formularios y experiencia de reserva.
 
 ## Objetivos
 
@@ -48,7 +48,7 @@ Este proyecto complementará los otros trabajos del portfolio porque estará con
 ## Decisiones estratégicas y UX
 
 - Dar más peso al mensaje y a la reserva que al volumen de contenido.
-- Mantener una navegación de una sola página para no añadir fricción.
+- Mantener una navegación clara y jerarquizada para no añadir fricción.
 - Pensar mobile first por tratarse de un servicio con alta probabilidad de acceso rápido desde el teléfono.
 - Reservar el tono visual nocturno para reforzar la identidad y la intimidad del servicio.
 
@@ -69,8 +69,8 @@ Este proyecto complementará los otros trabajos del portfolio porque estará con
 
 ## Tecnologías
 
-La landing se desarrollará con **HTML semántico, CSS y JavaScript**, prestando atención al diseño responsive, el rendimiento y la accesibilidad.
+La web está realizada con **WordPress y Kadence**, prestando atención al diseño responsive, la claridad editorial, el rendimiento y la accesibilidad.
 
 ## Estado
 
-Proyecto en fase de definición. La imagen que aparece en el portfolio es una referencia visual provisional y se sustituirá por una captura real cuando la landing esté construida.
+Web local en desarrollo y revisión. La imagen del portfolio muestra la versión actual de la home de Luz Azul.
