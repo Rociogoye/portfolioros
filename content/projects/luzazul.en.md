@@ -57,15 +57,15 @@ The website combines a night-style visual identity with a clear content architec
 - A light, clear landing page centered on conversion.
 - A useful example of how I define an MVP and make scope decisions.
 
-## Planned sections
+## Current sections
 
-1. Intro and call to action.
-2. About Elita.
-3. Types of readings or services.
-4. How a consultation works.
-5. Testimonials.
-6. Frequently asked questions.
-7. Booking via WhatsApp or form.
+1. Home and introductory call to action.
+2. El Umbral: symbolic accompaniment with Tarot.
+3. Courses and learning resources.
+4. Tarot readings and services.
+5. About Eli.
+6. Blog with reflections and guides.
+7. Contact and booking a reading.
 
 ## Tools
 

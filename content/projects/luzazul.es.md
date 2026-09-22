@@ -57,15 +57,15 @@ La web combina una identidad visual nocturna con una arquitectura de contenidos 
 - Una landing ligera, clara y centrada en la conversión.
 - Un ejemplo útil para mostrar cómo planteo un MVP y tomo decisiones de alcance.
 
-## Secciones previstas
+## Secciones actuales
 
-1. Presentación y llamada a la acción.
-2. Sobre Elita.
-3. Tipos de lectura o servicios.
-4. Cómo funciona una consulta.
-5. Testimonios.
-6. Preguntas frecuentes.
-7. Reserva mediante WhatsApp o formulario.
+1. Inicio y llamada a la acción.
+2. El Umbral: acompañamiento simbólico con Tarot.
+3. Cursos y recursos de aprendizaje.
+4. Lecturas de Tarot y servicios.
+5. Quién es Eli.
+6. Blog con reflexiones y guías.
+7. Contacto y reserva de una lectura.
 
 ## Tecnologías
 
