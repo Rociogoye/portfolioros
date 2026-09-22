@@ -295,8 +295,8 @@ languages:
             links: []
             featured:
               name: "Ver proyecto"
-              linkEs: "projects/elita-tarot/"
-              linkEn: "projects/elita-tarot/"
+              linkEs: "projects/luzazul/"
+              linkEn: "projects/luzazul/"
 
       contact:
         enable: true
