@@ -297,6 +297,23 @@ languages:
               name: "Ver proyecto"
               linkEs: "projects/luzazul/"
               linkEn: "projects/luzazul/"
+          - title: "My Day App"
+            content: "Aplicación web publicada para planificar, registrar y revisar el día con una experiencia más amable."
+            image: "/images/projects/my-day-app.svg"
+            badges:
+              - "HTML"
+              - "CSS"
+              - "JavaScript"
+              - "Local storage"
+            links:
+              - icon: fab fa-github
+                url: "https://github.com/Rociogoye/my-day-app"
+              - icon: fas fa-arrow-up-right-from-square
+                url: "https://rociogoye.github.io/my-day-app/"
+            featured:
+              name: "Ver proyecto"
+              linkEs: "projects/my-day-app/"
+              linkEn: "projects/my-day-app/"
 
       contact:
         enable: true
